@@ -81,7 +81,6 @@ const runComparison = () => {
 			rightStat.classList.remove('is-primary');
 			rightStat.classList.add('is-warning');
 		}
-		console.log(leftStat);
 	});
 };
 
